@@ -1,0 +1,6 @@
+packages/
+.vs/
+Xtx.Excel.Parser/bin/
+Xtx.Excel.Parser/obj/
+Xtx.Excel.ParserTests/bin/
+Xtx.Excel.ParserTests/obj/
